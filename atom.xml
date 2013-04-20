@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Issey's Blog]]></title>
+  <link href="http://issey.github.com/atom.xml" rel="self"/>
+  <link href="http://issey.github.com/"/>
+  <updated>2013-04-20T13:33:02+09:00</updated>
+  <id>http://issey.github.com/</id>
+  <author>
+    <name><![CDATA[Kazunari Sumiyoshi]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://issey.github.com/blog/2013/04/20/first-post/"/>
+    <updated>2013-04-20T00:00:00+09:00</updated>
+    <id>http://issey.github.com/blog/2013/04/20/first-post</id>
+    <content type="html"><![CDATA[<h1>2013-04-20-first-post</h1>
+
+<h2>1) Blog を書き始めるにあたって</h2>
+
+<p>  テスト</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://issey.github.com/blog/2013/04/20/first-post/"/>
+    <updated>2013-04-20T00:00:00+09:00</updated>
+    <id>http://issey.github.com/blog/2013/04/20/first-post</id>
+    <content type="html"><![CDATA[* Blog を書き始めるにあたって
+
+テスト
+]]></content>
+  </entry>
+  
+</feed>
