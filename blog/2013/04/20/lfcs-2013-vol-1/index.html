@@ -1,0 +1,24 @@
+<h2>1) Persistent Memory and Linux</h2>
+
+<p>  Linux Foundation Collaboration Summit 2013, April 15-17, 2013 · Parc 55 Hotel (San Francisco, CA)
+  にて、Ric Wheeler (Red Hat) が、LinuxでのNon-volatileメモリ対応に関するセッションを行ったようです。</p>
+
+<p>  Persistent Memory and Linux: New Storage Technologies and Interfaces
+  Ric Wheeler, Senior Manager, Kernel File &amp; Storage Team Red Hat, Inc.
+  <a href="https://events.linuxfoundation.org/images/stories/slides/lfcs2013_wheeler.pdf">https://events.linuxfoundation.org/images/stories/slides/lfcs2013_wheeler.pdf</a></p>
+
+<p>  lwn.netでも、このセッションの記事がアップされているようですが、私はまだこの記事を読んでいません。
+  <a href="https://lwn.net/Articles/547903/">LFCS: Preparing Linux for nonvolatile memory devices</a></p>
+
+<p>  既存のSSDデバイスや今後のPCI-SSDに対するLinuxのチャレンジについて語っていて、
+  PCI-SSDデバイスで100万IOPS/deviceを実現するためには、Linuxカーネルのブロック層だけでなく
+  ファイルシステムやさらにはデータベースアプリケーションを変更する必要があるようです。</p>
+
+<p>  アプリケーション開発者はゆっくりと新しいハードウェアの恩恵が得るため、
+  これからの数年は read/write といった従来のAPIを利用し続け、
+  一部のハイエンドアプリケーションが新しいAPIやプログラミングモデルを利用するようです。</p>
+
+<p>  Storage Network Industry Association (SNIA) のワーキンググループの一つである
+  <a href="http://snia.org/forums/sssi/nvmp">Non Volatile Memory Programming TWG</a> にて、新しいプログラミングモデルについて既に議論がなされています。</p>
+
+<p>  こういうところで活躍できるような技術者になれるといいなあ。</p>
