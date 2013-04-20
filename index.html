@@ -9,7 +9,8 @@
   <meta name="author" content="Kazunari Sumiyoshi">
 
   
-  <meta name="description" content="1) 所信表明 「技術者たるものブログくらい書いとくべきじゃないか？」 という曖昧なモチベーションでブログを書き始めることにしました。 たぶん更新は月一です。たぶん三日坊主です。 内容は Linuxカーネル動向についてにしたいと思っています。 特にデバイスドライバ(ストレージ/ネットワーク) &hellip;">
+  <meta name="description" content="menuscript 1) Persistent Memory and Linux Linux Foundation Collaboration Summit 2013, April 15-17, 2013 · Parc 55
+Hotel (San Francisco, CA) にて、Ric &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -71,6 +72,79 @@
       
   <header>
     
+      <h1 class="entry-title"><a href="/blog/2013/04/20/lfcs-2013-vol-dot-1/">Lfcs 2013 Vol Dot 1</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-04-20T00:00:00+09:00" pubdate data-updated="true">Apr 20<span>th</span>, 2013</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><h1>menuscript</h1>
+
+<h2>1) Persistent Memory and Linux</h2>
+
+<p>  Linux Foundation Collaboration Summit 2013, April 15-17, 2013 · Parc 55
+Hotel (San Francisco, CA)
+  にて、Ric Wheeler (Red Hat) が、LinuxでのNon-volatileメモリ対応に関するセッションを行ったようです。
+  Persistent Memory and Linux: New Storage Technologies and Interfaces
+  Ric Wheeler, Senior Manager, Kernel File &amp; Storage Team Red Hat, Inc.</p>
+
+<ul>
+<li><a href="https://events.linuxfoundation.org/images/stories/slides/lfcs2013_wheeler.pdf">https://events.linuxfoundation.org/images/stories/slides/lfcs2013_wheeler.pdf</a></li>
+</ul>
+
+
+<p>  LFCS: Preparing Linux for nonvolatile memory devices
+  (有料会員ではないので、まだこの記事を読んでません)</p>
+
+<ul>
+<li>[https://lwn.net/Articles/547903/]</li>
+</ul>
+
+
+<p>  既存のSSDデバイスや今後のPCI-SSDに対するLinuxのチャレンジについて語っていて、
+  PCI-SSDデバイスで100万IOPS/deviceを実現するためには、Linuxカーネルのブロック層だけでなく
+  ファイルシステムやさらにはデータベースアプリケーションを変更する必要があるようです。
+  アプリケーション開発者はゆっくりと新しいハードウェアの恩恵が得るため、
+  これからの数年は read/write といった従来のAPIを利用し続け、
+  一部のハイエンドアプリケーションが新しいAPIやプログラミングモデルを利用するようです。
+  Storage Network Industry Association (SNIA) のワーキンググループの一つである
+  Non Volatile Memory Programming TWG にて、新しいプログラミングモデルについて既に議論がなされています。</p>
+
+<ul>
+<li>[http://snia.org/forums/sssi/nvmp]</li>
+</ul>
+
+
+<p>  こういうところで活躍できるような技術者になれるといいなあ。</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
       <h1 class="entry-title"><a href="/blog/2013/04/20/first-post/">First Post</a></h1>
     
     
@@ -124,6 +198,10 @@
     <section>
   <h1>Recent Posts</h1>
   <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2013/04/20/lfcs-2013-vol-dot-1/">Lfcs 2013 Vol Dot 1</a>
+      </li>
     
       <li class="post">
         <a href="/blog/2013/04/20/first-post/">First Post</a>
