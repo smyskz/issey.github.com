@@ -4,7 +4,7 @@
   <title><![CDATA[Issey's Blog]]></title>
   <link href="http://issey.github.io/atom.xml" rel="self"/>
   <link href="http://issey.github.io/"/>
-  <updated>2013-04-20T21:54:51+09:00</updated>
+  <updated>2013-04-20T21:58:01+09:00</updated>
   <id>http://issey.github.io/</id>
   <author>
     <name><![CDATA[Kazunari Sumiyoshi]]></name>
@@ -30,26 +30,6 @@
 <p>  まあ誰も見ていないはずですが、月一更新なので次回は５月末でしょうか&#8230;
   だいたい誰に対してブログを公開しているのかも、ちゃんと定まっていないですが、
   とりあえずは自分自身のお勉強と備忘録としてブログを書いて行きたいとの所存であります。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[First Post]]></title>
-    <link href="http://issey.github.io/blog/2013/04/20/first-post/"/>
-    <updated>2013-04-20T00:00:00+09:00</updated>
-    <id>http://issey.github.io/blog/2013/04/20/first-post</id>
-    <content type="html"><![CDATA[* 所信表明
-
-「技術者たるものブログくらい書いとくべきじゃないか？」
-という曖昧なモチベーションでブログを書き始めることにしました。
-
-たぶん更新は月一です。たぶん三日坊主です。
-内容は Linuxカーネル動向についてにしたいと思っています。
-特にデバイスドライバ(ストレージ/ネットワーク)についてを予定しています。
-
-まあ誰も見ていないはずですが、月一更新なので次回は５月末でしょうか...
-だいたい誰に対してブログを公開しているのかも、ちゃんと定まっていないですが、
-とりあえずは自分自身のお勉強と備忘録としてブログを書いて行きたいとの所存であります。
 ]]></content>
   </entry>
   
