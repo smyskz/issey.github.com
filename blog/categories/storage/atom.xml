@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Issey's Blog]]></title>
-  <link href="http://issey.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Storage | Issey's Blog]]></title>
+  <link href="http://issey.github.io/blog/categories/storage/atom.xml" rel="self"/>
   <link href="http://issey.github.io/"/>
   <updated>2013-04-21T00:00:51+09:00</updated>
   <id>http://issey.github.io/</id>
@@ -42,26 +42,6 @@
   <a href="http://snia.org/forums/sssi/nvmp">Non Volatile Memory Programming TWG</a> にて、新しいプログラミングモデルについて既に議論がなされています。</p>
 
 <p>  こういうところで活躍できるような技術者になれるといいなあ。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[はじめまして]]></title>
-    <link href="http://issey.github.io/blog/2013/04/20/first-post/"/>
-    <updated>2013-04-20T18:00:00+09:00</updated>
-    <id>http://issey.github.io/blog/2013/04/20/first-post</id>
-    <content type="html"><![CDATA[<h2>1) 所信表明</h2>
-
-<p>  「技術者たるものブログくらい書いとくべきじゃないか？」
-  という曖昧なモチベーションでブログを書き始めることにしました。</p>
-
-<p>  たぶん更新は月一です。たぶん三日坊主です。
-  内容は Linuxカーネル動向についてにしたいと思っています。
-  特にデバイスドライバ(ストレージ/ネットワーク)についてを予定しています。</p>
-
-<p>  まあ誰も見ていないはずですが、月一更新なので次回は５月末でしょうか&#8230;
-  だいたい誰に対してブログを公開しているのかも、ちゃんと定まっていないですが、
-  とりあえずは自分自身のお勉強と備忘録としてブログを書いて行きたいとの所存であります。</p>
 ]]></content>
   </entry>
   
