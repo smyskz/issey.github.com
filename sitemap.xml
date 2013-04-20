@@ -2,15 +2,19 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://issey.github.io/blog/2013/04/20/first-post/</loc>
-        <lastmod>2013-04-20T12:25:01+09:00</lastmod>
+        <lastmod>2013-04-20T21:54:50+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://issey.github.io/blog/2013/04/20/first-post/</loc>
+        <lastmod>2013-04-20T21:54:20+09:00</lastmod>
     </url>
     <url>
         <loc>http://issey.github.io/blog/archives/</loc>
-        <lastmod>2013-04-20T12:25:01+09:00</lastmod>
+        <lastmod>2013-04-20T21:54:50+09:00</lastmod>
     </url>
     <url>
         <loc>http://issey.github.io/</loc>
-        <lastmod>2013-04-20T12:25:01+09:00</lastmod>
+        <lastmod>2013-04-20T21:54:50+09:00</lastmod>
     </url>
     <url>
         <loc>http://issey.github.io/robots.txt</loc>
